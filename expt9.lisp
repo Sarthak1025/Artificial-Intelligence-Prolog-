@@ -57,3 +57,11 @@
 ;((5)(format t "Fri"))
 ;((6)(format t "Sat"))
 ;((7)(format t "Sun")))
+
+;Function declaration and call
+;( defun f1(x y)
+; (format t " ")
+; (+ x y))
+ 
+;(setf z (f1 2 3))
+;(format t " Z is ~A"z)
