@@ -43,3 +43,17 @@
 ;(format t "y"))
 ;when is used in place of if
 ;it takes 2nd format as default case and prints both of them when true
+;case construct
+;(case (keyform)
+;((key1)(action1))
+;((key2)(action2)))
+
+;WAP to print name of days in a week
+;(case (read)
+;((1)(format t "Mon"))
+;((2)(format t "Tue"))
+;((3)(format t "Wed"))
+;((4)(format t "Thu"))
+;((5)(format t "Fri"))
+;((6)(format t "Sat"))
+;((7)(format t "Sun")))
