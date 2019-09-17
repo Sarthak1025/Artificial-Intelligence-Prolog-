@@ -38,6 +38,6 @@
 ;if construct
 ;(if(test-clause)(action1)(action2))
 ;Check whether the number is greater or not using if construct
-(setq x 20)
-(if (< x 10) (format t "x")
-(format t "y"))
+;(setq x 20)
+;(if (< x 10) (format t "x")
+;(format t "y"))
