@@ -65,3 +65,5 @@
  
 ;(setf z (f1 2 3))
 ;(format t " Z is ~A"z)
+
+;WAp to define a function to check if a no. is even or odd
