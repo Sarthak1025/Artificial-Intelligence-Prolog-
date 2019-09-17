@@ -41,3 +41,5 @@
 ;(setq x 20)
 ;(if (< x 10) (format t "x")
 ;(format t "y"))
+;when is used in place of if
+;it takes 2nd format as default case and prints both of them when true
