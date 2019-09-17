@@ -67,3 +67,6 @@
 ;(format t " Z is ~A"z)
 
 ;WAp to define a function to check if a no. is even or odd
+;(defun f1(x)
+;  (mod x 2))
+; (setf z (f1 (read)))(if (= z 0 ) (format t "Even")(format t "Odd"))
